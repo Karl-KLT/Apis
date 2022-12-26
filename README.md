@@ -9,5 +9,5 @@ $ git clone https://github.com/Karl-KLT/Apis.git;cd Apis;composer install;compos
 ```
 ## Route
 - App:
--  App/GET_APP
--  App/UPDATE_APP
+    - App/GET_APP
+    - App/UPDATE_APP
