@@ -11,3 +11,18 @@ $ git clone https://github.com/Karl-KLT/Apis.git;cd Apis;composer install;compos
 - App:
     - App/GET_APP
     - App/UPDATE_APP
+
+- Auth:
+    - Profile
+    - Login
+    - Register
+
+- Slider:
+    - SET_Slider
+
+- Categories:
+    - SET_Categories
+    - GET_Categories
+    - SET_Product
+    - GET_Product
+  
